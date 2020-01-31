@@ -38,7 +38,7 @@ Edit this document to include your answers after each question. Make sure to lea
 
 3. What is closure?
 
-- It's used for object data privacy, a closure is the entire lexical scope of a given function, all inner functions within the closure has access to references outer of it's lexical scope and conversely functions outside of the scope do not have access to values declared inside inner functions.
+- It's used for object data privacy, a closure is a function that can access it's outer scope, all inner functions within the closure also has access to references outer of their lexical scope
 
 4. Describe the four rules of the 'this' keyword.
 
